@@ -1,0 +1,60 @@
+{
+    "file_id": "audio_001",
+    "file_path": "/content/audio_001.mp3",
+    "detected_language": "en",
+    "transcript": [
+        {
+            "speaker": "SPEAKER_03",
+            "start_time": 0.0,
+            "end_time": 1.6,
+            "text": "at home",
+            "emotion": "neutral",
+            "emotion_score": 0.781
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start_time": 1.6,
+            "end_time": 3.3200000000000003,
+            "text": "one",
+            "emotion": "neutral",
+            "emotion_score": 0.757
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start_time": 3.3200000000000003,
+            "end_time": 9.4,
+            "text": "Where is Jane? She is in the living room. What is she doing? She is playing the piano",
+            "emotion": "surprise",
+            "emotion_score": 0.841
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start_time": 10.08,
+            "end_time": 12.84,
+            "text": "Where is the car it is in the garage?",
+            "emotion": "neutral",
+            "emotion_score": 0.771
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "start_time": 13.44,
+            "end_time": 20.84,
+            "text": "Where is the dog the dog is in front of the door? What is the dog doing the dog is eating?",
+            "emotion": "neutral",
+            "emotion_score": 0.634
+        }
+    ],
+    "sound_effects": [
+        {
+            "label": "Conversation",
+            "score": 0.035
+        },
+        {
+            "label": "Narration, monologue",
+            "score": 0.026
+        }
+    ],
+    "metadata": {
+        "annotator": "system_auto"
+    }
+}
